@@ -1,0 +1,5 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch4/SwitchDemo/bin/Debug/SwitchDemo.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch4/SwitchDemo/bin/Debug/SwitchDemo.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch4/SwitchDemo/obj/anycpu/Debug/SwitchDemo.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch4/SwitchDemo/obj/anycpu/Debug/SwitchDemo.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch4/SwitchDemo/obj/anycpu/Debug/SwitchDemo.pdb
